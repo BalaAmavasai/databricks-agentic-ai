@@ -64,7 +64,7 @@
     *   Identifying and debugging common issues (e.g., incorrect responses, failure to use tools, poor contextual understanding).
     *   Tips for iteratively improving agent performance through prompt refinement, tool adjustments, or memory enhancements.
 
-### Notebook 4: Next Steps and Expanding Your Agentic AI Horizons
+### [Notebook 4: Next Steps and Expanding Your Agentic AI Horizons](Notebook%204_%20Next%20Steps%20and%20Expanding%20Your%20Agentic%20AI%20Horizons.md)
 
 *   **Module 4.1: Recap of Key Concepts and Workshop Summary**
     *   Consolidated review of the core concepts covered: agent loop, prompt engineering, memory, tools, RAG, and the development process.
