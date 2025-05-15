@@ -43,7 +43,7 @@
     *   **Hands-on Example 1:** An agent that can use a "calculator" tool (a simple Python function) to perform arithmetic operations.
     *   **Hands-on Example 2 (Conceptual/Simplified):** An agent that can perform a web search (simulated using a predefined function that returns mock search results, or a very basic API call if simple enough for beginners).
 
-### Notebook 3: Building a Simple Agentic Application on Databricks
+### [Notebook 3: Building a Simple Agentic Application on Databricks](Notebook%203_%20Building%20a%20Simple%20Agentic%20Application%20on%20Databricks.md)
 
 *   **Module 3.1: Defining Your Agent's Goal, Persona, and Capabilities**
     *   Choosing a simple, well-defined task for the agent (e.g., a Q&A bot over a small provided text document, a simple data summarizer, a basic task automator for a predefined workflow).
