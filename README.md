@@ -23,7 +23,7 @@
     *   Best practices for storing API keys securely using Databricks secrets.
     *   **Hands-on:** Your first OpenAI API call from a Databricks notebook (e.g., simple text generation).
 
-### Notebook 2: Core Components of an AI Agent
+### [Notebook 2: Core Components of an AI Agent](Notebook%202_%20Core%20Components%20of%20an%20AI%20Agent.md)
 
 *   **Module 2.1: Understanding the Agent Loop (Observe-Think-Act)**
     *   Detailed explanation of the Observe-Think-Act cycle as the fundamental operational flow of an agent.
