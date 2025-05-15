@@ -7,7 +7,7 @@
 
 ## Workshop Outline:
 
-### Notebook 1: Introduction to Agentic AI and Your Databricks Environment
+### [Notebook 1: Introduction to Agentic AI and Your Databricks Environment](Notebook%201_%20Introduction%20to%20Agentic%20AI%20and%20Your%20Databricks%20Environment.md)
 
 *   **Module 1.1: What is Agentic AI?**
     *   Definition and key concepts of AI agents (e.g., autonomy, proactiveness, reactivity, social ability).
