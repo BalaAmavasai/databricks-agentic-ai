@@ -1,4 +1,4 @@
-# Course Outline: Building Your First Agentic AI System on Databricks with OpenAI
+# Building Your First Agentic AI System on Databricks with OpenAI
 
 **Target Audience:** Data Scientists
 **Level:** Beginner-Friendly
@@ -7,7 +7,7 @@
 
 ## Workshop Outline:
 
-### [Notebook 1: Introduction to Agentic AI and Your Databricks Environment](Notebook%201_%20Introduction%20to%20Agentic%20AI%20and%20Your%20Databricks%20Environment.html)
+### [1: Introduction to Agentic AI and Your Databricks Environment](Notebook%201_%20Introduction%20to%20Agentic%20AI%20and%20Your%20Databricks%20Environment.html)
 
 *   **Module 1.1: What is Agentic AI?**
     *   Definition and key concepts of AI agents (e.g., autonomy, proactiveness, reactivity, social ability).
@@ -23,7 +23,7 @@
     *   Best practices for storing API keys securely using Databricks secrets.
     *   **Hands-on:** Your first OpenAI API call from a Databricks notebook (e.g., simple text generation).
 
-### [Notebook 2: Core Components of an AI Agent](Notebook%202_%20Core%20Components%20of%20an%20AI%20Agent.html)
+### [2: Core Components of an AI Agent](Notebook%202_%20Core%20Components%20of%20an%20AI%20Agent.html)
 
 *   **Module 2.1: Understanding the Agent Loop (Observe-Think-Act)**
     *   Detailed explanation of the Observe-Think-Act cycle as the fundamental operational flow of an agent.
@@ -43,7 +43,7 @@
     *   **Hands-on Example 1:** An agent that can use a "calculator" tool (a simple Python function) to perform arithmetic operations.
     *   **Hands-on Example 2 (Conceptual/Simplified):** An agent that can perform a web search (simulated using a predefined function that returns mock search results, or a very basic API call if simple enough for beginners).
 
-### [Notebook 3: Building a Simple Agentic Application on Databricks](Notebook%203_%20Building%20a%20Simple%20Agentic%20Application%20on%20Databricks.html)
+### [3: Building a Simple Agentic Application on Databricks](Notebook%203_%20Building%20a%20Simple%20Agentic%20Application%20on%20Databricks.html)
 
 *   **Module 3.1: Defining Your Agent's Goal, Persona, and Capabilities**
     *   Choosing a simple, well-defined task for the agent (e.g., a Q&A bot over a small provided text document, a simple data summarizer, a basic task automator for a predefined workflow).
@@ -64,7 +64,7 @@
     *   Identifying and debugging common issues (e.g., incorrect responses, failure to use tools, poor contextual understanding).
     *   Tips for iteratively improving agent performance through prompt refinement, tool adjustments, or memory enhancements.
 
-### [Notebook 4: Next Steps and Expanding Your Agentic AI Horizons](Notebook%204_%20Next%20Steps%20and%20Expanding%20Your%20Agentic%20AI%20Horizons.html)
+### [4: Next Steps and Expanding Your Agentic AI Horizons](Notebook%204_%20Next%20Steps%20and%20Expanding%20Your%20Agentic%20AI%20Horizons.html)
 
 *   **Module 4.1: Recap of Key Concepts and Workshop Summary**
     *   Consolidated review of the core concepts covered: agent loop, prompt engineering, memory, tools, RAG, and the development process.
@@ -80,4 +80,4 @@
 *   **Module 4.4: Resources for Continued Learning and Community Engagement**
     *   Curated list of links to official OpenAI documentation, Databricks developer resources, relevant research papers (foundational or survey papers), and online communities for agentic AI.
 
-This outline provides a structured approach for a beginner-friendly, concise workshop. I will now save this and ask for your feedback.
+
